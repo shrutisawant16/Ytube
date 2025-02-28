@@ -3,7 +3,7 @@ Youtube download manager coded in python
 
 INSTALLATION
 
-git clone https://github.com/shrutisawant16/ytube.git
+git clone https://github.com/shrutisawant16/Ytube.git
 
 cd ytube
 
